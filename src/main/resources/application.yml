@@ -4,7 +4,7 @@ spring:
     name: PortalLogApi  # Service registers under this name
   security:
     username: admin
-    password: openpaasta
+    password: openkpaas
   flyway:
     enabled: false
 
@@ -54,7 +54,7 @@ influxdb:
   ip: 10.0.1.115
   url: http://10.0.1.115:8086
   username: admin
-  password: PaaS-TA2022
+  password: K-PaaS2022
   database: logging_db
   measurement: logging_measurement
   retention-policy: autogen
