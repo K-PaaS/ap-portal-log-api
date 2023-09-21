@@ -13,8 +13,8 @@ applications:
     
     spring_application_name: PortalLogApi
 
-    spring_security_username: admin
-    spring_security_password: openkpaas
+    spring_security_username: <SPRING_SECURITY_USERNAME>
+    spring_security_password: <SPRING_SECURITY_PASSWORD>
 
     tailsocket_port: 5555
 
