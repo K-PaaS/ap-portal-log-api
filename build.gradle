@@ -20,7 +20,7 @@ apply plugin: "io.spring.dependency-management"
 
 
 jar {
-    baseName = 'paas-ta-portal-log-api'
+    baseName = 'ap-portal-log-api'
 }
 
 sourceCompatibility = 1.8

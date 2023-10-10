@@ -1,4 +1,4 @@
-# PAAS-TA-PORTAL-LOG-API
+# ap-portal-log-api
 ## Portal LOG API
 Portal LOG API 란? CF Tail 및 APP 로그 서비스를 위해 구현한 서비스이다.
 - CF Tail - 각각의 API 서비스로 제공(CF, DB, OBJECT STORAGE, LOG)
